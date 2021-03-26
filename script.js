@@ -12,9 +12,9 @@ function math () {
   num1 = parseInt(num1)
   num2 = parseInt(num2)
 
-  for (counter = 0; counter < num1; counter ++)
-    {
-      answer = answer + num2
-    }
+  for (counter = 0; counter < num1; counter++)
+  {
+    answer = answer + num2
+  }
   document.getElementById('result').innerHTML = 'Your answer is: ' + answer
 }
