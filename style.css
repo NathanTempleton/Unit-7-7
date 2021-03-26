@@ -1,0 +1,33 @@
+body {
+  background-color: beige;
+}
+
+.header {
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+}
+
+.div {
+  text-align: center;
+}
+
+#num1-input {
+  border-radius: 15px;
+}
+
+#num2-input {
+  border-radius: 15px;
+}
+
+#button {
+  border-radius: 15px;
+  display: block;
+  margin: auto;
+}
+
+#result {
+  text-align: center;
+}
